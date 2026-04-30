@@ -1,7 +1,5 @@
 # Crop_yield dashboard - Power BI
 
-# Crop Yield Dashboard
-
 ## Project Overview
 This project demonstrates a **Crop Yield Analysis Dashboard** using **Python** for data preprocessing and **Power BI** for visualization. The goal is to explore crop yield trends, pesticide usage, and the impact of environmental factors like rainfall and temperature.
 
@@ -62,9 +60,12 @@ It contains the following key columns:
 
 ## Folder Structure
 
+
+```
 Crop-Yield-Dashboard/
 ├── data/
 ├── python/
 ├── powerbi/
 ├── README.md
 
+```
